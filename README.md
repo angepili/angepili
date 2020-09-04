@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects and articles are available at [https://angelopili.it](https://angelopili.it)
 
-- 💬 Ask me about **Typescript and Javascript, Scss, Php 7+, Mysql, API integrations, Laravel 5+, Hugo**
+- 💬 Ask me about **Typescript and Javascript, Scss, Php 7+, Mysql, API integrations, Laravel 5+, Hugo, WordPress themes and plugins**
 
 - 📫 How to reach me **angepili@icloud.com**
 
