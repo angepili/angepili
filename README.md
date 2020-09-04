@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Youtube Svelte](https://github.com/angepili/youtube-svelte)
 
-- 🌱 I’m currently learning **Svelte, React and C#**
+- 🌱 I’m currently learning and improve **Svelte, React and C#**
 
-- 👨‍💻 All of my projects are available at [https://angelopili.it](https://angelopili.it)
-
-- 📝 I regulary write articles on [https://angelopili.it](https://angelopili.it)
+- 👨‍💻 All of my projects and articles are available at [https://angelopili.it](https://angelopili.it)
 
 - 💬 Ask me about **Typescript and Javascript, Scss, Php 7+, Mysql, API integrations, Laravel 5+, Hugo**
 
